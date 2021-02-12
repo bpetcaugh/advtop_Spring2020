@@ -7,7 +7,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 3. Bevenour: 
 4. Borkowski:
 5. Castner: 
-6. Gublo:
+6. goobs Gublo:
 7. Littley:
 8. Mancuso:
 9. Merrigan:
