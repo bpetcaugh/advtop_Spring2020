@@ -5,7 +5,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 1. Aguilar:
 2. Barone: 
 3. Bevenour: 
-4. Borkowski:
+4. Beanin Borkowski:
 5. Castner: 
 6. Gublo:
 7. Littley:
