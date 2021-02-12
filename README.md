@@ -4,7 +4,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 ## What shape did you draw?
 1. Aguilar:
 2. Barone: 
-3. Bevenour: 
+3. Joel Bevenour: 
 4. Borkowski:
 5. Castner: 
 6. Gublo:
