@@ -16,7 +16,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 12. Noto: 
 13. Srenivasan:
 14. Vijay:
-15. Wallace:
+15. Dylan Wallace:
 16. Petcaugh: Red rectangle, top right
 
 ## Updates:
