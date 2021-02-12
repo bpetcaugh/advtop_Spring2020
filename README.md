@@ -2,7 +2,7 @@
 This will be used for the Advanced Topics class, as a learning repo, for the current semester.
 
 ## What shape did you draw?
-1. Aguilar:
+1. My name jeff j(2016 vine compilation) Aguilar:rhombicosidodecahedron
 2. Barone: 
 3. Bevenour: 
 4. Borkowski:
