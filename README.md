@@ -2,20 +2,26 @@
 This will be used for the Advanced Topics class, as a learning repo, for the current semester.
 
 ## What shape did you draw?
-1. Aguilar:
+1. My name jeff j(2016 vine compilation) Aguilar:rhombicosidodecahedron
 2. Barone: 
 3. Bevenour: 
 4. Borkowski:
 5. Castner: 
 6. Gublo:
 7. Littley:
-8. Mancuso:
+8. Jeeth Mancuso: 
 9. Merrigan:
 10. Naqvi:
 11. Nipper:
+<<<<<<< HEAD
 12. Noto: 
 13. Goobert Srenivasan:
 14. Vijay:
+=======
+12. José Noto: 
+13. Goobert Srenivasan:
+14. Vijay: Big Chungus
+>>>>>>> c981923a4786a1d81020a76dd4565498232b3b79
 15. Wallace:
 16. Petcaugh: Red rectangle, top right
 
