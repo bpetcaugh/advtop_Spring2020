@@ -12,7 +12,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 8. Jeeth Mancuso: 
 9. Merrigan:
 10. Naqvi:
-11. Nipper:
+11. My first name is not Nipper:
 12. José Noto: 
 13. Srenivasan:
 14. Vijay: Big Chungus
