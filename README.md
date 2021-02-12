@@ -9,7 +9,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 5. Castner: 
 6. Gublo:
 7. Littley:
-8. Mancuso:
+8. Jeeth Mancuso: 
 9. Merrigan:
 10. Naqvi:
 11. Nipper:
