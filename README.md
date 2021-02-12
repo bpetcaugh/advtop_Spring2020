@@ -15,7 +15,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 11. Nipper:
 12. Noto: 
 13. Srenivasan:
-14. Gublo Vijay: Big Chungus
+14. Gublo Jeep: Big Chungus
 15. Wallace:
 16. Petcaugh: Red rectangle, top right
 
