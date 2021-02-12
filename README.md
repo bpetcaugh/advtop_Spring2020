@@ -12,7 +12,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 8. Mancuso:
 9. Merrigan:
 10. Naqvi:
-11. Nipper:
+11. Call me my first name not just Nipper for once:
 12. Noto: 
 13. Srenivasan:
 14. Vijay:
