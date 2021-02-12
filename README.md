@@ -4,7 +4,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 ## What shape did you draw?
 1. Aguilar:
 2. Barone: 
-3. Joel Bevenour: 
+3. Bevenour: 
 4. Borkowski:
 5. Castner: 
 6. Gublo:
@@ -13,11 +13,11 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 9. Merrigan:
 10. Naqvi:
 11. Nipper:
-12. Noto: 
+12. José Noto: 
 13. Srenivasan:
-14. Gublo  Jeep: Big Chungus
+14. Vijay: Big Chungus
 15. Wallace:
-16. Batman Petcaugh: Red rectangle, top right
+16. Petcaugh: Red rectangle, top right
 
 ## Updates:
 This is where we will put software updates.
