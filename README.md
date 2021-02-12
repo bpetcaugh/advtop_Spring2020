@@ -4,12 +4,12 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 ## What shape did you draw?
 1. My name jeff j(2016 vine compilation) Aguilar:rhombicosidodecahedron
 2. Barone: 
-3. Bevenour: 
+3. Joel Bevenour: 
 4. Borkowski:
 5. Castner: 
 6. Gublo:
-7. Littley:
-8. Jeeth Mancuso: 
+7. Littley:Jimmy
+8. Mancuso:
 9. Merrigan:
 10. Naqvi:
 11. Nipper:
