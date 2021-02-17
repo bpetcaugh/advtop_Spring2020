@@ -17,7 +17,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 13. Srenivasan:
 14. camel jeep: Big Chungus
 15. Wallace:
-16. Brandon Petcaugh: Red rectangle, top right
+16. Batman Petcaugh: Red rectangle, top right
 
 ## Updates:
 This is where we will put software updates.
