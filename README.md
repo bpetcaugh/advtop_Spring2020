@@ -9,7 +9,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 5. Castner: 
 6. Gublo Gublo goob:
 7. Littley:Jimmy
-8. Mancuso: random dancing icarly freddy gibby spencer fat cake
+8. Mancuso: random dancing icarly freddy gibby spencer fat cake hyeooo
 9. Merrigan:
 10. Naqvi:
 11. Nipper:
