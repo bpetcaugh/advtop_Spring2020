@@ -7,7 +7,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 3. Joel Bevenour: 
 4. Borkowski:
 5. Castner: 
-6. Gublo Gublo goob:
+6. Gublo Gublo Gublo(3) goob: 
 7. Littley:Jimmy
 8. Mancuso:
 9. Merrigan:
@@ -15,7 +15,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 11. Nipper:
 12. José Noto: 
 13. Srenivasan:
-14. camel jeep: Big Chungus
+14.  camel camel jeep: Big Chungus
 15. Wallace:
 16. Batman Petcaugh: Red rectangle, top right
 
