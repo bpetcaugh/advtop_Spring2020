@@ -4,7 +4,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 ## What shape did you draw?
 1. My name jeff j(2016 vine compilation) Aguilar:rhombicosidodecahedron
 2. Trey Barone: Hello yes I do gaming stuff
-3. Joel Bevenour: 
+3. Joel Bevenour: 4 8 15 16 23 42 (Do not delete important numbers!)
 4. Bork Bork Bork:
 5. Castner:
 6. gooba diver (gublo):
