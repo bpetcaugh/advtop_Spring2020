@@ -3,6 +3,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 
 ## What shape did you draw?
 1. My name jeff j(2016 vine compilation) Aguilar:rhombicosidodecahedron
+<<<<<<< HEAD
 2. Barone: 
 3. Bevenour: 
 4. Beanin Borkowski:
@@ -10,10 +11,20 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 6. goobs Gublo:
 7. Littley:
 8. Jeeth Mancuso: 
+=======
+2. Trey Barone: Hello yes I do gaming stuff
+3. Joel Bevenour: 4 8 15 16 23 42 (Do not delete important numbers!)
+4. Bork Bork Bork:
+5. Castner:
+6. gooba diver (gublo):
+7. Littley:Jimmy
+8. Jman47:
+>>>>>>> main
 9. Merrigan:
 10. Naqvi:
 <<<<<<< Updated upstream
 11. Nipper:
+<<<<<<< HEAD
 <<<<<<< HEAD
 12. Noto: 
 13. Goobert Srenivasan:
@@ -37,7 +48,16 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 14. Gublo  Jeep: Big Chungus
 >>>>>>> Stashed changes
 15. Wallace:
+=======
+12. José: Ir 
+12. José Noto was here lolololol: 
+13. Srenivasan:
+14. camel camel jeep: Big Chungus dodecahedron
+15. DWallace Hotel Admin king:
+>>>>>>> main
 16. Batman Petcaugh: Red rectangle, top right
+17. syed naqvi was here and i was somewhere
+18. Mysterious 18th person!
 
 ## Updates:
 This is where we will put software updates.
