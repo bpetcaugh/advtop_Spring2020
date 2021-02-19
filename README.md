@@ -7,15 +7,15 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 3. Joel Bevenour: 
 4. Borkowski:
 5. Castner: 
-6. Gublo Gublo goob:
+6. gooba diver:
 7. Littley:Jimmy
-8. Mancuso: random dancing icarly freddy gibby spencer fat cake hyeooo
+8. Jman47:
 9. Merrigan:
 10. Naqvi:
 11. Nipper:
-12. José Noto: 
+12. José: Ir 
 13. Srenivasan:
-14. camel jeep: Big Chungus
+14. camel jeep: Big Chungus dodecahedron
 15. Wallace:
 16. Batman Petcaugh: Red rectangle, top right
 
