@@ -1,3 +1,0 @@
-//jeep
-
-print("hello world")
