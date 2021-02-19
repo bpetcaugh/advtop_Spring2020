@@ -18,6 +18,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 14. camel jeep: Big Chungus
 15. Wallace:
 16. Batman Petcaugh: Red rectangle, top right
+17. syed naqvi was here and i was somewhere
 
 ## Updates:
 This is where we will put software updates.
