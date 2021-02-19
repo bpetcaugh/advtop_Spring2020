@@ -17,7 +17,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 4. Bork Bork Bork:
 5. Castner:
 6. gooba diver (gublo):
-7. Littley:Jimmy
+7. Littley:Jimmy whats up fellas!
 8. Jman47:
 >>>>>>> main
 9. Merrigan:
