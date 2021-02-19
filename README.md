@@ -12,7 +12,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 8. Jman47:
 9. Merrigan:
 10. Naqvi:
-11. Nipper:
+11. Nipper: another rectangle
 12. José: Ir 
 12. José Noto was here lolololol: 
 13. Srenivasan:
