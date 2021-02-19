@@ -20,6 +20,6 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 15. DWallace Hotel Admin king:
 16. Batman Petcaugh: Red rectangle, top right
 17. syed naqvi was here and i was somewhere
-18. Mysterious 18th person!
+
 ## Updates:
 This is where we will put software updates.
