@@ -5,7 +5,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 1. My name jeff j(2016 vine compilation) Aguilar:rhombicosidodecahedron
 2. Trey Barone: Hello yes I do gaming stuff
 3. Joel Bevenour: 
-4. Borkowski:
+4. Bork Bork Bork:
 5. Castner:
 6. gooba diver (gublo):
 7. Littley:Jimmy
@@ -17,7 +17,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 12. José Noto was here lolololol: 
 13. Srenivasan:
 14. camel camel jeep: Big Chungus dodecahedron
-15. Wallace:
+15. DWallace Hotel Admin king:
 16. Batman Petcaugh: Red rectangle, top right
 17. syed naqvi was here and i was somewhere
 
