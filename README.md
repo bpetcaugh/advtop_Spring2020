@@ -6,16 +6,17 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 2. Barone: 
 3. Joel Bevenour: 
 4. Borkowski:
-5. Castner: 
-6. Gublo Gublo goob:
+5. Castner:
+6. gooba diver (gublo):
 7. Littley:Jimmy
-8. Mancuso:
+8. Jman47:
 9. Merrigan:
 10. Naqvi:
 11. Nipper:
+12. José: Ir 
 12. José Noto was here lolololol: 
 13. Srenivasan:
-14. camel jeep: Big Chungus
+14. camel camel jeep: Big Chungus dodecahedron
 15. Wallace:
 16. Batman Petcaugh: Red rectangle, top right
 
