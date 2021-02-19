@@ -1,4 +1,4 @@
-//This is Trey's file now
+//This is Trey's file now lol
 
 var canvas = document.getElementById('myCanvas');
 var ctx = canvas.getContext('2d');
