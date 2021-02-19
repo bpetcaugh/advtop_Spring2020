@@ -14,6 +14,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 10. Naqvi:
 11. Nipper:
 12. José: Ir 
+12. José Noto was here lolololol: 
 13. Srenivasan:
 14. camel camel jeep: Big Chungus dodecahedron
 15. Wallace:
