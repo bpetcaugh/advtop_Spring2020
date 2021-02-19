@@ -8,7 +8,7 @@ This will be used for the Advanced Topics class, as a learning repo, for the cur
 4. Bork Bork Bork:
 5. Castner:
 6. gooba diver (gublo):
-7. Littley:Jimmy whats up fellas!
+7. Littley:Jimmy whats up fellas! This is so epic!
 8. Jman47:
 9. Merrigan:
 10. Naqvi:
